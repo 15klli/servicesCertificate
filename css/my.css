@@ -1,0 +1,14 @@
+@media print
+{
+    .noprint {display: none;}
+    .organization {border: 0}
+}
+.logo1 {
+	/*background-image: url(../logo.png) ;*/
+	background: url(../logo.png) height:50% width:50%;
+	background-repeat: no-repeat;
+	position: absolute;
+
+	background-position: center;
+	/*opacity: 0.5;*/
+}
